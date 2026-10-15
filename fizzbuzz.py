@@ -1,3 +1,5 @@
+print("========== Bem Vindo(a) ao FizzBuzz ===========")
+
 limite = int(input("Limite: "))
 
 for i in range(1, limite + 1):
