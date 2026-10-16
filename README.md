@@ -1,1 +1,1 @@
-# pessoal
+# Repositório de projetos pessoais
