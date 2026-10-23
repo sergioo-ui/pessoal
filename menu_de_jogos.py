@@ -13,5 +13,6 @@ elif jogo == "4":
     import jokenpo
 elif jogo == "5":
     import jogo_da_velha
+    jogo_da_velha.jogar()
 else:
     print("Opção inválida.")
